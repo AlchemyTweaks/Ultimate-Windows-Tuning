@@ -3,5 +3,5 @@
 ## Introduction
 
 > [!IMPORTANT]  
-> Coming soon.
+> Here all the files related to the optimization of Windows 10/11 will be gathered, including all the reverts. It will be continuously updated with new material and modifications.
 
