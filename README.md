@@ -1,9 +1,7 @@
-# Optimization Files
+# Windows Optimization-10-11
 
 ## Introduction
 
 > [!IMPORTANT]  
-> All google drive files will be transfer here.
+> Coming soon.
 
-> [!WARNING]  
-> I will stop working with google drive, I will keep using only github for everything.
